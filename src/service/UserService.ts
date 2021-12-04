@@ -91,6 +91,7 @@ export class UserService {
   }
 
   private sendOnBoardingEmail(email: string) {
+    // TODO: Design an email template
     emailTransporter.sendMail({
       to: email,
       from: 'devugo@getnada.com',

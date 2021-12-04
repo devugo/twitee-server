@@ -1,8 +1,8 @@
-# STOREXPLORE API
+# TWITEE API
 
 ## Description
 
-A store management API built with Express and Typescript. This gives APIs from the authentication, authorization, down to the individual entity module.
+A social media API built with Express and Typescript. This gives APIs from the authentication, authorization, down to the individual entity module.
 
 ## Dependencies
 
@@ -15,7 +15,7 @@ A store management API built with Express and Typescript. This gives APIs from t
 
 ### Clone the repository
 
-- Run `git clone https://github.com/devugo/storexplore-server` on your terminal/cmd to pull the project
+- Run `git clone https://github.com/devugo/twitee-server.git` on your terminal/cmd to pull the project
 
 ### Install Dependencies
 
@@ -24,12 +24,12 @@ A store management API built with Express and Typescript. This gives APIs from t
 ### Setup Database
 
 - Ensure you have postgreSQL setup on your machine.
-- Create a databse with the name `storexplore` or use another name and do change the name on the `.env` file.
-- Ensure your database credentails match what is contain i the `.env.stage.dev` file.
+- Create a databse with the name `twitee` or use another name and do change the name on the `.env` file.
+- Ensure your database credentails match what is contain i the `.env.sample` file.
 
 ### Run the application
 
-- Run `yarn start` to start up local server to begin using the `STOREXPLORE API`.
+- Run `yarn start` to start up local server to begin using the `TWITEE API`.
 
 Follow the documentation below to see the various endpoints
 
@@ -37,4 +37,4 @@ Follow the documentation below to see the various endpoints
 
 ### POSTMAN documentation JSON url
 
-- [docs](https://www.getpostman.com/collections/44b7f83f99d6441782bc).
+- [API Docs](https://documenter.getpostman.com/view/14094805/UVJhCuVy).
