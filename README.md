@@ -10,6 +10,7 @@ A social media API built with Express and Typescript. This gives APIs from the a
 - [Typescript] (https://www.typescriptlang.org/)
 - [PostgreSQL] (https://www.postgresql.org/)
 - [TypeORM] (https://typeorm.io/#/)
+- [Backend-Server-URL](https://twitee-by-devugo.herokuapp.com/)
 
 ### How to run locally
 
@@ -35,6 +36,6 @@ Follow the documentation below to see the various endpoints
 
 ## DOCUMENTATION
 
-### POSTMAN documentation JSON url
+### POSTMAN documentation
 
 - [API Docs](https://documenter.getpostman.com/view/14094805/UVJhCuVy).
