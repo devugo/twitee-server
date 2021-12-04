@@ -6,10 +6,10 @@ A social media API built with Express and Typescript. This gives APIs from the a
 
 ## Dependencies
 
-- [ExpressJs] (https://expressjs.com/)
-- [Typescript] (https://www.typescriptlang.org/)
-- [PostgreSQL] (https://www.postgresql.org/)
-- [TypeORM] (https://typeorm.io/#/)
+- [ExpressJs](https://expressjs.com/)
+- [Typescript](https://www.typescriptlang.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [TypeORM](https://typeorm.io/#/)
 - [Backend-Server-URL](https://twitee-by-devugo.herokuapp.com/)
 
 ### How to run locally
